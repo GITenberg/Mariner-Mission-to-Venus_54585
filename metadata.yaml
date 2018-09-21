@@ -1,11 +1,16 @@
 _repo: Mariner-Mission-to-Venus_54585
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54585-h/images/cover.jpg
 creator:
   author:
     agent_name: Laboratory, Jet Propulsion
     gutenberg_agent_id: '47941'
     url: http://www.gutenberg.org/2009/agents/47941
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54585#Mariner-Mission-to-Venus
 gutenberg_issued: '2017-04-21'
 gutenberg_type: Text
 identifiers:
